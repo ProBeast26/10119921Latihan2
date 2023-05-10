@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button.lightblue" parent="ThemeOverlay.AppCompat">
+        <item name="colorPrimary">@color/lightblue</item>
+    </style>
+</resources>
